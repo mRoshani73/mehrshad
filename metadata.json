@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Aurora",
+  "description": "A nocturnal landscape sanctuary, architectural alpine shelter archive, and museum-grade exhibition of northern wilderness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
